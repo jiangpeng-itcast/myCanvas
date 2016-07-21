@@ -19,4 +19,7 @@
 2、然后在主分支下，可以将当前的分支可dev分至合并  “git merge dev“
 
 3、最后可以将dev分支删除  ”git branch -d dev“ 
-zaiyi
+
+
+###  github与git
+  1、命令：”git clone  【仓储地址】“会把github上复制地址的整个jquery的仓储下载下来

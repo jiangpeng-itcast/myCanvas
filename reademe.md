@@ -8,7 +8,7 @@
 ### “git reflog” 表示查看每一次对版本的切换和提交
 
 
-##  切换分支 “git branch dev”表示创建分支成功   然后切换到分支  “git checkout dev”
+##   “git branch dev”表示创建分支成功   然后切换到分支  “git checkout dev”
 
 
 1、创建并切换到指定分支  ”git checkout -b dev“
@@ -19,3 +19,4 @@
 2、然后在主分支下，可以将当前的分支可dev分至合并  “git merge dev“
 
 3、最后可以将dev分支删除  ”git branch -d dev“ 
+zaiyi

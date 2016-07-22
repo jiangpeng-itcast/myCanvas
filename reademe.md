@@ -23,3 +23,5 @@
 
 ###  github与git
   1、命令：”git clone  【仓储地址】“会把github上复制地址的整个jquery的仓储下载下来
+
+  ”git remote add origin [仓储地址]“ 表示将仓储地址付给变量 origin
